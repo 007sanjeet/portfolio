@@ -218,7 +218,7 @@ export function ProjectsSection() {
             className="text-center mt-12"
           >
             <a
-              href="https://github.com"
+              href="https://github.com/007sanjeet"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-primary hover:text-primary/80 font-medium transition-colors"
